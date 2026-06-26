@@ -1,5 +1,5 @@
-title = "Awesome Hugo blog"
-baseURL = 'https://hba.sid.one/'
+title = "Hoshifuru dev blog"
+baseURL = 'chocovannii.github.io/blog/'
 
 # This is what goes in <html lang="">
 locale = 'en-us'
@@ -134,7 +134,7 @@ theme = "hugo-blog-awesome"
     weight = 20
   [[Languages.ru-ru.menu.main]]
     pageRef="about"
-    name = 'О проекте'
+    name = 'О себе'
     url = '/about/'
     weight = 30
 
@@ -144,7 +144,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Минималистичная тема для блога на Hugo с поддержкой светлого и тёмного режима"
+  description = "Блог, в котором я публикую свои интересные находки, инсайты и отчеты о происшествиях на пути."
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
