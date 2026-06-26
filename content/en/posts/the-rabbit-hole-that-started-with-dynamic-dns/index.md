@@ -1,6 +1,6 @@
 +++
 date = '2026-06-24T18:36:56+03:00'
-draft = true
+draft = false
 title = 'The Rabbit Hole That Started With Dynamic Dns'
 +++
 
