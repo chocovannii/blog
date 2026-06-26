@@ -1,6 +1,6 @@
 +++
 date = '2026-04-22T17:43:20+03:00'
-draft = true
+draft = false
 title = 'How a Minecraft Server Introduced Me to Docker'
 +++
 

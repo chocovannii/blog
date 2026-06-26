@@ -1,6 +1,6 @@
 +++
 date = '2026-06-24T18:53:44+03:00'
-draft = true
+draft = false
 title = 'No Inodes Left: Postmortem'
 +++
 # No Inodes Left: Minecraft Server Postmortem
