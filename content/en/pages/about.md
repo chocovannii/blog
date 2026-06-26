@@ -1,24 +1,19 @@
 ---
-title: About
-description: 'Hugo, the world''s fastest framework for building websites'
-author: Hugo Authors
+title: About me
+description: 'DevOps blog'
+author: Ikhsanov E.
 exclude_from_rss: true
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## About
 
-Hugo makes use of a variety of open source projects including:
+Hi! I’m a junior DevOps engineer. Right now I’m learning a lot hands-on, focusing on how to build and deploy infrastructure that’s manageable, predictable, and not “fragile” after a small change.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+At the moment, I’m actively working on **Kubernetes**, and going deeper into **CI/CD** and the details of **GitHub Actions**. I’m also studying different deployment approaches—like **GitOps**, deployment via **GitHub Actions push**, **Kubernetes-native** workflows, and **Ansible**—and trying to understand where each option fits best. On top of that, I’m learning observability by working with **Prometheus + Grafana**, so I can monitor services based on real metrics instead of guessing.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+In this blog, I want to document my learning progress: what I try, what decisions I make and why, and what I learn from things that break or fail during experiments.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you’re into **Kubernetes / CI-CD / observability** and you’re also learning through practice, I hope this blog will be useful for you. 
+You can reach me via email:
+eldar.ikhsanov@mail.ru
+eldar.ikhsanov@outlook.com
