@@ -134,7 +134,7 @@ theme = "hugo-blog-awesome"
     weight = 20
   [[Languages.ru-ru.menu.main]]
     pageRef="about"
-    name = 'О проекте'
+    name = 'О себе'
     url = '/about/'
     weight = 30
 
